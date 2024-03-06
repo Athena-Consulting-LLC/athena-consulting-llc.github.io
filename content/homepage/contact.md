@@ -1,10 +1,9 @@
 ---
-title: "Contact"
+title: "Contact Us"
 weight: 5
 header_menu: true
 ---
 
-Please send a quick message and someone on our team will reach out soon!
 
 <div class="container">
   <form action="/action_page.php">
