@@ -1,9 +1,10 @@
 ---
-title: "Contact Us"
+title: "Contact"
 weight: 5
 header_menu: true
 ---
 
+Please complete the form below and we will contact you.
 
 <div class="container">
   <form action="/action_page.php">
